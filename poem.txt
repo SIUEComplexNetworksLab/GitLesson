@@ -2,6 +2,7 @@ The Rainbow and the Unicorn and the Pony
 
 Purple
 Pink
+Done in Visual Studio Code!
 Orange
 Blue
 Green
